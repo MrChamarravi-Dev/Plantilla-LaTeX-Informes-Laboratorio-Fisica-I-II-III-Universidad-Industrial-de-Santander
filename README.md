@@ -52,13 +52,7 @@ La plantilla incorpora elementos institucionales, encabezados personalizados, co
 
 # 🖼️ Vista Previa
 
-<div align="center">
-
-<img src="./Recursos-Github-Gitlab/Ca1.png" alt="Vista previa página 1" width="420">
-
-<img src="./Recursos-Github-Gitlab/Ca2.png" alt="Vista previa página 2" width="420">
-
-</div>
+<div align="center"> <table> <tr> <td><img src="./Recursos-Github-Gitlab/Ca1.png" alt="Vista previa página 1" width="420"></td> <td><img src="./Recursos-Github-Gitlab/Ca2.png" alt="Vista previa página 2" width="420"></td> </tr> <tr> <td><img src="./Recursos-Github-Gitlab/Ca3.png" alt="Vista previa página 3" width="420"></td> <td><img src="./Recursos-Github-Gitlab/Ca4.png" alt="Vista previa página 4" width="420"></td> </tr> </table> </div>
 
 ---
 
